@@ -1,0 +1,7 @@
+Please add your name to the list below as one of your changes:
+	James
+
+Edit the sentence below, this will let us look at merge conflicts:
+	The quick brown fox jumps over the lazy dog.
+	
+Add anything else you want to this file and repo to test any other features of git that you're curious about!
