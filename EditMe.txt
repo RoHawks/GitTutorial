@@ -1,5 +1,5 @@
 Please add your name to the list below as one of your changes:
-	James
+	James Kersh
 
 Edit the sentence below, this will let us look at merge conflicts:
 	The quick brown fox jumps over the lazy dog.
